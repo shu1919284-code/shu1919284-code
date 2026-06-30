@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0221,30:1a0533,70:6D28D9,100:A855F7&height=250&section=header&text=Shubham%20Kumar%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=From%20Prompt%20to%20Product%20%C2%B7%20No%20Budget%20%C2%B7%20No%20Limits&descAlignY=60&descSize=18&animation=scaleIn&stroke=A855F7&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,30:1a0533,70:6D28D9,100:A855F7&height=250&section=header&text=Shubham%20Kumar%20Jha&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=From%20Prompt%20to%20Product%20-%20No%20Budget%20-%20No%20Limits&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=🤖+GenAI+Developer+%7C+AI+Engineer+%7C+AI+Product+Builder;⚡+Building+production+AI+with+zero+budget;🧠+Multi-agent+pipelines+%7C+LLM+Evaluation+%7C+RLHF;🚀+From+idea+to+deployed+AI+product+—+end+to+end;🌐+Full-Stack+AI+%7C+Prompt+Engineer+%7C+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=GenAI+Developer+%7C+AI+Engineer+%7C+AI+Product+Builder;Building+production+AI+with+zero+budget;Multi-agent+pipelines+%7C+LLM+Evaluation+%7C+RLHF;From+idea+to+deployed+AI+product+-+end+to+end;Full-Stack+AI+%7C+Prompt+Engineer+%7C+Builder" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -207,14 +207,14 @@ print(me.proof())
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Open+to+GenAI+%7C+AI+Engineer+%7C+Prompt+Engineer+roles;Full-time+%7C+Internship+%7C+Remote+—+all+good;Let's+build+something+with+AI+together+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Open+to+GenAI+%7C+AI+Engineer+%7C+Prompt+Engineer+roles;Full-time+%7C+Internship+%7C+Remote+-+all+good;Lets+build+something+with+AI+together" alt="Typing SVG" />
 
 <br/>
 
 | | |
 |---|---|
-| 📧 **Email** | sk1919284@gmail.com |
-| 💼 **LinkedIn** | [shubham-kumar-jha](https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c) |
+| 📧 **Email** | shu1919284@gmail.com |
+| 💼 **LinkedIn** | [shubham-kumar-jha](https://www.linkedin.com/in/shubham-kumar-12a3233b9/) |
 | 🌐 **Portfolio** | [shubham1919284.github.io/Portfolio](https://shubham1919284.github.io/Portfolio/) |
 
 <br/>
